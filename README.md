@@ -11,7 +11,7 @@
 * Random password is displayed after clicking the red generate password button.
 
 # Screen Shot:  
-![Preview](Will Update)
+![Preview](images\TM-Password-Generator.png)
 
 # Deployed Website:
-[TM-Code-Refactor](https://t0930.github.io/TM-Password-Generator)
+[TM-Password-Generator](https://t0930.github.io/TM-Password-Generator)
